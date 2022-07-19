@@ -1,1 +1,1 @@
-Sample org structure for application catalog# tap-gui-catalog2
+Sample org structure for application catalog
